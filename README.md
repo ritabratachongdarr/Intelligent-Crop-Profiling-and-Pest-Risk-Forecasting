@@ -1,4 +1,4 @@
-# Agricultural Pest Risk Prediction & Management System
+# Agricultural Pest Risk Analysis System
 
 This project implements a Machine Learning pipeline to predict pest risk levels and provide optimized irrigation and pest management suggestions based on environmental factors like Temperature, Humidity, and Soil Moisture.
 
